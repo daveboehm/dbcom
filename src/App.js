@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Dave Boehm</h1>
+        <h1>DBCOM</h1>
         <AmplifySignOut />
       </header>
     </div>
